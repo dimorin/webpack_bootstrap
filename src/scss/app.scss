@@ -1,0 +1,12 @@
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+@import './variables.scss';
+html,body{height:100%;}
+body {background-image:url(../img/Latest.png);background-color:$bgcolor;background-size:contain;background-repeat:no-repeat;background-position:center bottom;}
+body {
+    padding-top: 5rem;
+  }
+  .starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+  
